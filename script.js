@@ -56,7 +56,7 @@ const SERVICES = [
     desc: 'Тиражная печать листовок и флаеров А5 / А4 / А6 на мелованной или офсетной бумаге. Идеально для промо-акций.',
     tags: ['А4', 'А5', 'А6', 'тираж'],
     price: 'от 75 ₸ / шт',
-    img: 'https://images.unsplash.com/photo-1712736051179-1d77e1180eef?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D', // печатный станок
+    img: 'https://images.unsplash.com/photo-1712736051179-1d77e1180eef?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Ds', // печатный станок
   },
   {
     cat: 'service',
