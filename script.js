@@ -32,7 +32,7 @@ const SERVICES = [
     desc: 'Быстрая чёрно-белая печать на лазерном принтере. Договоры, отчёты, рефераты, ТЗ, пакеты документов. Готово за 5–10 минут.',
     tags: ['А4', 'ч/б', 'лазер'],
     price: 'от 10 ₸ / лист',
-    img: 'https://unsplash.com/photos/white-and-gray-printer-on-white-table-UdDCjj0rR7c', // стопка офисной бумаги (бесплатное фото)
+    img: 'https://images.unsplash.com/photo-1645776104983-0611bc32aeaa?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D', // стопка офисной бумаги (бесплатное фото)
   },
   {
     cat: 'print',
@@ -40,7 +40,7 @@ const SERVICES = [
     desc: 'Цветная печать А4 на струйном или лазерном принтере. Фото, презентации, маркетинг, портфолио. Качественная цветопередача.',
     tags: ['А4', 'цветная'],
     price: 'от 50 ₸ / лист',
-    img: 'https://unsplash.com/photos/printing-machine-Tzm3Oyu_6sk', // цветная печать
+    img: 'https://images.unsplash.com/photo-1710857679450-ecd7945dd4bd?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D', // цветная печать
   },
   {
     cat: 'print',
@@ -48,7 +48,7 @@ const SERVICES = [
     desc: 'Печать визиток на плотной бумаге или картоне. Простой и сложный дизайн, односторонние и двусторонние, ламинация. Готовы в день обращения.',
     tags: ['100/300 г/м²', '720/1440 dpi', 'ламинация'],
     price: 'от 25 ₸ / шт',
-    img: 'https://unsplash.com/photos/neonbrand-box-VwAOjP-m3bA', // визитки
+    img: 'https://images.unsplash.com/photo-1769893464274-ef3af10359f9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D', // визитки
   },
   {
     cat: 'print',
@@ -56,7 +56,7 @@ const SERVICES = [
     desc: 'Тиражная печать листовок и флаеров А5 / А4 / А6 на мелованной или офсетной бумаге. Идеально для промо-акций.',
     tags: ['А4', 'А5', 'А6', 'тираж'],
     price: 'от 75 ₸ / шт',
-    img: 'https://unsplash.com/photos/a-close-up-of-a-bunch-of-stickers-on-a-table-kVIPh1BsRKM', // печатный станок
+    img: 'https://images.unsplash.com/photo-1712736051179-1d77e1180eef?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D', // печатный станок
   },
   {
     cat: 'service',
